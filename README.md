@@ -85,8 +85,6 @@ dtype: float64
 ```
 missing_perc.plot(kind='barh')
 ```
-![picture](https://drive.google.com/uc?id=115vjtsaQEi_qPXAEMxentBcknQM7vCB0)
-
 
 ## Select columns for analysis and visualization
 There are 45 columns are there to this data, so selecting only  columns to analyze for now. We can select other columns and try the analysis with same steps
