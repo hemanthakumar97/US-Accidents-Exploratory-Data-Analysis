@@ -85,7 +85,7 @@ dtype: float64
 ```
 missing_perc.plot(kind='barh')
 ```
-![App Screenshot](https://drive.google.com/file/d/115vjtsaQEi_qPXAEMxentBcknQM7vCB0)
+![picture](https://drive.google.com/uc?id=115vjtsaQEi_qPXAEMxentBcknQM7vCB0)
 
 
 ## Select columns for analysis and visualization
@@ -100,3 +100,7 @@ There are 45 columns are there to this data, so selecting only  columns to analy
 ### Insights:
 - Less than 5% of cities have more than 1000 yearly accidents.
 - Over 1100 cities have reported only one accident
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hemanthakumar.cf/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanthakumar-s-40184713b/)
